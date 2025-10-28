@@ -8,3 +8,4 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Other Stack</h2> <br>
     <img src="https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=blender&logoColor=FFFFFF" />
     <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
