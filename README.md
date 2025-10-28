@@ -9,4 +9,5 @@
     <img src="https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=blender&logoColor=FFFFFF" />
     <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Stats</h2> <br>
-    https://github-readme-stats.vercel.app/api?username=16bit-16)](https://github.com/anuraghazra/github-readme-stats
+    <img src="https://github-readme-stats.vercel.app/api?username=16bit-16">
+    <img src="https://github.com/16bit-16/github-readme-stats">
