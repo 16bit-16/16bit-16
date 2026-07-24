@@ -10,6 +10,6 @@
     <img src="https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=blender&logoColor=FFFFFF" />
     <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Stats</h2> <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=16bit-16&layout=compact&bg_color=60,bfbfbf,ffffff&title_color=2b2b2b&text_color=2b2b2b">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16bit-16&layout=compact&bg_color=60,bfbfbf,ffffff&title_color=2b2b2b&text_color=2b2b2b"
-           /> </div> 
+    <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=16bit-16&theme=tokyonight&utcOffset=9"/>
+    <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=16bit-16&theme=tokyonight"/>
+  </div> 
